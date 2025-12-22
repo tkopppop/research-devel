@@ -1,7 +1,7 @@
 # research-devel
 rnd<br>
 i start<br> 
-1985 thinking about hacking and elite social status.<br>
-ja. <br>
+I'm programmer and build my area in hacker social.<b>
+id x90c, tf8, lamagra argamal, phanatasmal ..<br>
 
-- creator: jung kyong ju.
+
