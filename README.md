@@ -29,3 +29,5 @@ developing is hard but if high-level developer, it's t********<br>
 6. release(use makefile simple) (pre alpha beta)<br>
 7. code reading 70% more remembering in your understanding coding list, trouble-shooting (debugging)<br>
 <br>
+zen, pray for the world and space both.<br>
+it helps your program's interesting.<br>
