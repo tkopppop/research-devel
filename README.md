@@ -19,9 +19,13 @@ developing is hard but if high-level developer, it's t********<br>
 </pre>
 [programming skill lecture for beginners]<br>
 1. design writing<br>
-2. brainstorming for algorithm using in the devel.<br>
-3. make architecture of the project's programs.<br>
-4. code<br>
-5. release (pre alpha beta)<br>
-6. trouble-shooting (debugging)<br>
+   thinking in new feature having special project.<br>
+   do drawing the motive texts in paper.<br>
+3. brainstorming for algorithm using in the devel.<br>
+   alone possible... writing ideas on paper.
+4. make architecture of the project's programs.<br>
+   write pseudo-code algorithms in computer textpad.
+5. code(vim?)<br>
+6. release(use makefile simple) (pre alpha beta)<br>
+7. code reading 70% more remembering in your understanding coding list, trouble-shooting (debugging)<br>
 <br>
