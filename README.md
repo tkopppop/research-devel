@@ -17,3 +17,11 @@ developing is hard but if high-level developer, it's t********<br>
   force!
   
 </pre>
+[programming skill lecture for beginners]<br>
+1. design writing<br>
+2. brainstorming for algorithm using in the devel.<br>
+3. make architecture of the project's programs.<br>
+4. code<br>
+5. release (pre alpha beta)<br>
+6. trouble-shooting (debugging)<br>
+<br>
