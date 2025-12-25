@@ -10,7 +10,7 @@
 </pre>
 R&D(Research And Development)<br><br><br><br>
 i'm a program starting 1985 to be a pioneer hacker type programmer and the developer.<br>
-developing is hard but if high-level developer, it's t********<br>
+developing is hard but if high-level developer, it's topcoder<br>
 <br>
 //the idea makes us wisedom.<br>
 //but the no idea to make the all of life which stucked.<br>
