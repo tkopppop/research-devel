@@ -31,3 +31,8 @@ developing is hard but if high-level developer, it's t********<br>
 <br>
 zen, pray for the world and space both.<br>
 it helps your program's interesting.<br>
+many programs on internet and hardware or usb disks?<br>
+and no more new making... ?<br>
+why?<br>
+do it!
+
