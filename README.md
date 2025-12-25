@@ -1,5 +1,5 @@
 # research-devel
-rnd<br>
+rnd(research and development)<br>
 i'm a program starting 1985 to be a pioneer hacker type programmer and the developer.<br>
 developing is hard but if high-level developer, it's t********<br>
 <br>
