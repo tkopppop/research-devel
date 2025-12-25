@@ -10,5 +10,10 @@ developing is hard but if high-level developer, it's t********<br>
 <<the programmer's history>><br>
 <pre>
   I made hacking system to operating x86 systems. and it's manually coded.
+  First, basic what is the purpose for freedom using, ... computer features of 'software'.
+  Second!
+  Third!
+  Forth!
+  force!
   
 </pre>
