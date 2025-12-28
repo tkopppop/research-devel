@@ -9,7 +9,7 @@
   force! 
 </pre>
 R&D(Research And Development)<br><br><br><br>
-i'm a program starting 1985 to be a pioneer hacker type programmer and the developer.<br>
+i'm a program starting 1985 to be a hacker type programmer and the developer.<br>
 developing is hard but if high-level developer, it's to******<br>
 <br>
 //the idea makes us wisedom.<br>
