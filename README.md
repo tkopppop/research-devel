@@ -18,5 +18,5 @@ developing is hard but if high-level developer, it's to******<br>
 <br>  
 I. big project one. (4.3 years everyday coding)<br>
 II. i started for future hacker shape programmer. (13 years i will go to it)<br>
-III. (2 year lifecyle for a coder)<br>
+III. (2 year lifecycle for a coder)<br>
 
