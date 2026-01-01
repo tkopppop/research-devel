@@ -9,14 +9,7 @@
   force! 
 </pre>
 R&D(Research And Development)<br><br><br><br>
-i'm a program starting 1985 to be a hacker type programmer and the developer.<br>
-developing is hard but if high-level developer, it's to******<br>
+i'm a man program starting 1985 to be a hacker.<br>
+developing is some interesting. <br>
 <br>
-//the idea makes us wisedom.<br>
-//but the no idea to make the all of life which stucked.<br>
-//if we're going to above first mention happy land /on idea.<br>
-<br>  
-I. big project one. (4.3 years everyday coding)<br>
-II. i started for future hacker shape programmer. (13 years i will go to it)<br>
-III. (2 year lifecycle for a coder)<br>
-
+go for it !~
