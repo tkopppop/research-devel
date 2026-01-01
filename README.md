@@ -1,5 +1,5 @@
 # research-devel
-<<the programmer's history>><br>
+<<the elite's history>><br>
 <pre>
   I made hacking system to operate x86 systems. and it's manually coded.
   First, basic what is the purpose for freedom using, ... computer features of 'software'.
